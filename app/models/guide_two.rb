@@ -1,0 +1,2 @@
+class GuideTwo < ApplicationRecord
+end

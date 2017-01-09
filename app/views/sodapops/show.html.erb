@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @sodapop.title %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @sodapop.description %>
+</p>
+
+<%= link_to 'Edit', edit_sodapop_path(@sodapop) %> |
+<%= link_to 'Back', sodapops_path %>

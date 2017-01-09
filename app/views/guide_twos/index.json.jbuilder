@@ -1,0 +1,1 @@
+json.array! @guide_twos, partial: 'guide_twos/guide_two', as: :guide_two

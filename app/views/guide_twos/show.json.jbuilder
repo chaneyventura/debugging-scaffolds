@@ -1,0 +1,1 @@
+json.partial! "guide_twos/guide_two", guide_two: @guide_two

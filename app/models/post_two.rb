@@ -1,0 +1,2 @@
+class PostTwo < ApplicationRecord
+end

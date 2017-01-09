@@ -1,0 +1,1 @@
+json.partial! "sodapops/sodapop", sodapop: @sodapop

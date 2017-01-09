@@ -1,0 +1,1 @@
+json.array! @post_twos, partial: 'post_twos/post_two', as: :post_two

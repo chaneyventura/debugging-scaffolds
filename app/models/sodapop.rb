@@ -1,0 +1,2 @@
+class Sodapop < ApplicationRecord
+end
